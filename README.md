@@ -8,3 +8,5 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0003/lengthOfLongestSubstring.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0004/findMedianSortedArrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0005/longestPalindrome.cpp)|Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0005/longestPalindrome.cpp)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0007/reverseInteger.cpp)|Easy|
