@@ -11,3 +11,4 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0005/longestPalindrome.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0007/reverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0008/myAtoi.cpp)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0009/isPalindrome.cpp)|Easy|
