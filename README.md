@@ -17,3 +17,4 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0011/containerWithMostWater.cpp)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0012/integerToRoman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0013/romanToInteger.cpp)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0014/longestCommonPrefix.cpp)|Easy|
