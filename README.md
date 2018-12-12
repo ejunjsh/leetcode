@@ -23,3 +23,4 @@
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0017/letterCombinations.cpp)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0018/fourSum.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0019/removeNthFromEnd.cpp)|Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0020/isValidParentheses.cpp)|Easy|
