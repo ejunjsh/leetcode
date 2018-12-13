@@ -24,3 +24,4 @@
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0018/fourSum.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0019/removeNthFromEnd.cpp)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0020/isValidParentheses.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0021/mergeTwoLists.cpp)|Easy|
