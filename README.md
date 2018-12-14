@@ -26,3 +26,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0020/isValidParentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0021/mergeTwoLists.cpp)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0022/generateParenthesis.cpp)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0023/mergeKLists.cpp)|Hard|
