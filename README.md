@@ -28,4 +28,5 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0022/generateParenthesis.cpp)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0023/mergeKLists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0024/swapPairs.cpp)|Medium|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0025/reverseKGroup.cpp)|Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0025/reverseKGroup.cpp)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0026/removeDuplicates.cpp)|Easy|
