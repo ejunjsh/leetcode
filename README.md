@@ -32,3 +32,4 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0026/removeDuplicates.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0027/removeElement.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0028/strStr.cpp)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0029/divide.cpp)|Medium|
