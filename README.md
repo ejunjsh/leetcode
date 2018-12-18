@@ -34,3 +34,4 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0028/strStr.cpp)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0029/divide.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0031/nextPermutation.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0032/longestValidParentheses.cpp)|Hard|
