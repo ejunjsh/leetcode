@@ -33,5 +33,6 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0027/removeElement.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0028/strStr.cpp)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0029/divide.cpp)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0030/findSubstring.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0031/nextPermutation.cpp)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0032/longestValidParentheses.cpp)|Hard|
