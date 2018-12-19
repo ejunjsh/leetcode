@@ -36,3 +36,4 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0030/findSubstring.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0031/nextPermutation.cpp)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0032/longestValidParentheses.cpp)|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0033/search-in-rotated-sorted-array.cpp)|Medium|
