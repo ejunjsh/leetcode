@@ -39,3 +39,4 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0033/search-in-rotated-sorted-array.cpp)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0034/find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0035/searchInsert.cpp)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0036/isValidSudoku.cpp)|Medium|
