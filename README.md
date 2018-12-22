@@ -40,3 +40,4 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0034/find-first-and-last-position-of-element-in-sorted-array.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0035/searchInsert.cpp)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0036/isValidSudoku.cpp)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0038/countAndSay.cpp)|Easy|
