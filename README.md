@@ -42,3 +42,4 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0036/isValidSudoku.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0038/countAndSay.cpp)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0039/combinationSum.cpp)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0040/combinationSum2.cpp)|Medium|
