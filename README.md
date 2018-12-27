@@ -45,3 +45,4 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0040/combinationSum2.cpp)|Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0041/firstMissingPositive.cpp)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0042/trap.cpp)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0043/multiply.cpp)|Medium|
