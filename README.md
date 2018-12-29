@@ -52,3 +52,4 @@
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0047/permuteUnique.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0048/rotate.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0049/groupAnagrams.cpp)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0050/myPow.cpp)|Medium|
