@@ -49,3 +49,4 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0044/isMatch.cpp)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0045/jump.cpp)|Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0046/permute.cpp)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0047/permuteUnique.cpp)|Medium|
