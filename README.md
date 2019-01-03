@@ -57,6 +57,6 @@
 
 # To do
 
-[37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
-[51 N-Queens](https://leetcode.com/problems/n-queens/)
-[52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+* [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+* [51 N-Queens](https://leetcode.com/problems/n-queens/)
+* [52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
