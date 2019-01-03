@@ -53,3 +53,10 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0048/rotate.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0049/groupAnagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0050/myPow.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0053/maxSubArray.cpp)|Easy|
+
+# To do
+
+[37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+[51 N-Queens](https://leetcode.com/problems/n-queens/)
+[52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
