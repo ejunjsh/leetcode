@@ -54,6 +54,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0049/groupAnagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0050/myPow.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0053/maxSubArray.cpp)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0054/spiralOrder.cpp)|Medium|
 
 # To do
 
