@@ -58,6 +58,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0055/canJump.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0056/mergeInterval.cpp)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0057/mergeInsert.cpp)|Hard|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0058/lengthOfLastWord.cpp)|Easy|
 
 # To do
 
