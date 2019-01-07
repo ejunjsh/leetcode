@@ -57,6 +57,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0054/spiralOrder.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0055/canJump.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0056/mergeInterval.cpp)|Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0057/mergeInsert.cpp)|Hard|
 
 # To do
 
