@@ -62,7 +62,7 @@
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0059/generateMatrix.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0060/getPermutation.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0061/rotateRight.cpp)|Medium|
-
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0062/uniquePaths.cpp)|Medium|
 # To do
 
 * [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
