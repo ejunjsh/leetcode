@@ -65,7 +65,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0062/uniquePaths-unoptimized.cpp)[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0062/uniquePaths.cpp)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0063/uniquePathsWithObstacles.cpp)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0064/minPathSum-unoptimized.cpp)[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0064/minPathSum.cpp)|Medium|
-
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0065/validNumber.cpp)|Hard|
 
 
 # To do
