@@ -68,10 +68,11 @@
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0065/validNumber.cpp)|Hard|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0066/plusOne.cpp)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0067/addBinary.cpp)|Easy|
-
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0069/mySqrt.cpp)|Easy|
 
 # To do
 
 * [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [51 N-Queens](https://leetcode.com/problems/n-queens/)
 * [52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+* [68 Text Justification](https://leetcode.com/problems/text-justification/)
