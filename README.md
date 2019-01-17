@@ -73,6 +73,7 @@
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0071/simplifyPath.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0075/sortColors.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0076/minWindow.cpp)|Hard|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0077/combinations.cpp)|Medium|
 
 # To do
 
