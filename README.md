@@ -74,6 +74,7 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0075/sortColors.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0076/minWindow.cpp)|Hard|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0077/combinations.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0078/subsets-backtracking.cpp)[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0078/subsets-iterative.cpp)|Medium|
 
 # To do
 
