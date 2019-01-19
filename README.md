@@ -76,6 +76,7 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0077/combinations.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0078/subsets-backtracking.cpp)[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0078/subsets-iterative.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0079/wordSearch.cpp)|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0080/removeDuplicates.cpp)|Medium|
 
 # To do
 
