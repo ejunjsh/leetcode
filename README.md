@@ -80,6 +80,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0081/search.cpp)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0082/deleteDuplicates.cpp)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0083/deleteDuplicates.cpp)|Easy|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0084/largestRectangleArea.cpp)|Hard|
 
 # To do
 
