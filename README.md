@@ -83,6 +83,7 @@
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0084/largestRectangleArea.cpp)|Hard|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle-dp.cpp)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0086/partitionList.cpp)|Medium|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0087/scrambleString.cpp)|Hard|
 
 # To do
 
