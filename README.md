@@ -82,6 +82,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0083/deleteDuplicates.cpp)|Easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0084/largestRectangleArea.cpp)|Hard|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle-dp.cpp)|Hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0086/partitionList.cpp)|Medium|
 
 # To do
 
