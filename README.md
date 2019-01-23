@@ -86,6 +86,7 @@
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0085/maximalRectangle-dp.cpp)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0086/partitionList.cpp)|Medium|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0087/scrambleString.cpp)|Hard|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0088/mergeSortedArray.cpp)|Easy|
 
 # To do
 
@@ -94,3 +95,4 @@
 * [52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 * [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+* [87 Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
