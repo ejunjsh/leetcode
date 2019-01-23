@@ -87,6 +87,7 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0086/partitionList.cpp)|Medium|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0087/scrambleString.cpp)|Hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0088/mergeSortedArray.cpp)|Easy|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0089/grayCode.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0089/grayCode-backtracking.cpp)|Medium|
 
 # To do
 
