@@ -91,6 +91,7 @@ learn algorithms and learn c++ by the way
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0088/mergeSortedArray.cpp)|Easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0089/grayCode.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0089/grayCode-backtracking.cpp)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0090/subsetsWithDup.cpp)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-memoization.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-dp.cpp)|Medium|
 
 # To do
 
