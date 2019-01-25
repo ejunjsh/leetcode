@@ -72,7 +72,7 @@ learn algorithms and learn c++ by the way
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0067/addBinary.cpp)|Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0068/fullJustify.cpp)|Hard|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0069/mySqrt.cpp)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-dp.cpp)[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-fibonacci.cpp)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-memo.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-dp.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0070/climbStairs-fibonacci.cpp)|Easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0071/simplifyPath.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0072/minDistance.cpp)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0075/sortColors.cpp)|Medium|
