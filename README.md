@@ -1,4 +1,6 @@
-# leetcode-chao
+# leetcode
+
+learn algorithms and learn c++ by the way
 
 ## algorithms
 
