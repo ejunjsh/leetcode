@@ -93,7 +93,7 @@ learn algorithms and learn c++ by the way
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0090/subsetsWithDup.cpp)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-memoization.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0091/numDecodings-dp.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0092/reverseBetween.cpp)|Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0094/inorderTraversal.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0094/inorderTraversal.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0094/inorderTraversal-stack.cpp)|Medium|
 
 # To do
 
