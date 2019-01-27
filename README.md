@@ -95,6 +95,7 @@ learn algorithms and learn c++ by the way
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0092/reverseBetween.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0093/restoreIpAddresses.cpp)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0094/inorderTraversal.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0094/inorderTraversal-stack.cpp)|Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0095/generateTrees.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0096/numTrees.cpp)|Medium|
 
 # To do
