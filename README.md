@@ -104,6 +104,7 @@ learn algorithms and learn c++ by the way
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0101/isSymmetric.cpp)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0102/levelOrder.cpp)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0103/zigzagLevelOrder.cpp)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0104/maxDepth.cpp)|Easy|
 
 # To do
 
