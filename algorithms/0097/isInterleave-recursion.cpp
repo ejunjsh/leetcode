@@ -10,9 +10,9 @@ public:
             return true;
         bool ans=false;
         if(i<s1.size())
-            ans|=is_Interleave(s1,i+1,s2,j,res+s1[i],s3);
+            ans = ans || is_Interleave(s1,i+1,s2,j,res+s1[i],s3);
         if(j<s2.size())
-            ans|=is_Interleave(s1,i,s2,j+1,res+s2[j],s3);
+            ans = ans || is_Interleave(s1,i,s2,j+1,res+s2[j],s3);
         return ans;
 
     }
