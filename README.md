@@ -99,6 +99,7 @@ learn algorithms and learn c++ by the way
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0096/numTrees.cpp)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0097/isInterleave-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0097/isInterleave-memo.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0097/isInterleave-dp.cpp)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0098/isValidBST.cpp)|Medium|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0099/recoverTree.cpp)|Hard|
 
 # To do
 
