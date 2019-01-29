@@ -101,6 +101,7 @@ learn algorithms and learn c++ by the way
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0098/isValidBST.cpp)|Medium|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0099/recoverTree.cpp)|Hard|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0100/isSameTree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0101/isSymmetric.cpp)|Easy|
 
 # To do
 
