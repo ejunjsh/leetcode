@@ -76,6 +76,7 @@ learn algorithms and learn c++ by the way
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0071/simplifyPath.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0072/minDistance.cpp)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0073/setZeroes.cpp)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0074/searchMatrix.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0075/sortColors.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0076/minWindow.cpp)|Hard|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0077/combinations.cpp)|Medium|
@@ -112,5 +113,4 @@ learn algorithms and learn c++ by the way
 * [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [51 N-Queens](https://leetcode.com/problems/n-queens/)
 * [52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
-* [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 * [87 Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
