@@ -116,6 +116,7 @@ learn algorithms and learn c++ by the way
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0111/minDepth.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0112/hasPathSum.cpp)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0113/pathSum-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0113/pathSum-backtracking.cpp)|Medium|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0114/flatten.cpp)|Medium|
 
 # To do
 
