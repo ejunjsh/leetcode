@@ -115,6 +115,7 @@ learn algorithms and learn c++ by the way
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0110/isBalanced.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0111/minDepth.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0112/hasPathSum.cpp)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0113/pathSum-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0113/pathSum-backtracking.cpp)|Medium|
 
 # To do
 
