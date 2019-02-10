@@ -119,6 +119,7 @@ learn algorithms and learn c++ by the way
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0114/flatten.cpp)|Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0115/numDistinct.cpp)|Hard|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0116/connect.cpp)|Medium|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0117/connect2.cpp)|Medium|
 
 # To do
 
