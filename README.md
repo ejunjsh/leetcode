@@ -122,6 +122,7 @@ learn algorithms and learn c++ by the way
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0117/connect2.cpp)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0118/pascalTriangle.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0119/pascalTriangle2.cpp)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0120/minimumTotal.cpp)|Medium|
 
 # To do
 
