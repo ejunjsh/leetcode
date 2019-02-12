@@ -124,6 +124,7 @@ learn algorithms and learn c++ by the way
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0119/pascalTriangle2.cpp)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0120/minimumTotal.cpp)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0121/maxProfit.cpp)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0122/maxProfit2.cpp)|Easy|
 
 # To do
 
