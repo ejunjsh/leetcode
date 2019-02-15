@@ -126,6 +126,7 @@ learn algorithms and learn c++ by the way
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0121/maxProfit.cpp)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0122/maxProfit2.cpp)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0123/maxProfit3.cpp)|Hard|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0124/maxPathSum.cpp)|Hard|
 
 # To do
 
