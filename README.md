@@ -130,6 +130,7 @@ learn algorithms and learn c++ by the way
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0125/isPalindrome.cpp)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0127/ladderLength.cpp)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0128/longestConsecutive.cpp)|Hard|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0129/sumNumbers.cpp)|Medium|
 
 # To do
 
