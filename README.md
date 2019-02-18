@@ -129,11 +129,12 @@ learn algorithms and learn c++ by the way
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0124/maxPathSum.cpp)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0125/isPalindrome.cpp)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0127/ladderLength.cpp)|Medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0128/longestConsecutive.cpp)|Hard|
 
 # To do
 
-* [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
-* [51 N-Queens](https://leetcode.com/problems/n-queens/)
-* [52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
-* [87 Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
+* [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+* [N-Queens](https://leetcode.com/problems/n-queens/)
+* [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+* [Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
 * [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
