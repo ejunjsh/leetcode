@@ -133,7 +133,7 @@ learn algorithms and learn c++ by the way
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0129/sumNumbers.cpp)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0130/surroundedRegions.cpp)|Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0131/partition.cpp)|Medium|
-
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0132/minCut.cpp)|Hard|
 
 # To do
 
