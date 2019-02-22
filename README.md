@@ -137,6 +137,7 @@ learn algorithms and learn c++ by the way
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0133/cloneGraph-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0133/cloneGraph-dfs.cpp)|Medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0134/canCompleteCircuit.cpp)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0135/candy.cpp)|Hard|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0136/singleNumber.cpp)|Easy|
 
 # To do
 
