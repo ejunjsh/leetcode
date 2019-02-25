@@ -143,6 +143,7 @@ learn algorithms and learn c++ by the way
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0139/wordBreak.cpp)|Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0140/wordBreak2.cpp)|Hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0141/hasCycle.cpp)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0142/detectCycle.cpp)|Medium|
 
 # To do
 
