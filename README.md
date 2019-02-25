@@ -140,6 +140,7 @@ learn algorithms and learn c++ by the way
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0136/singleNumber.cpp)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0137/singleNumber2.cpp)|Easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0138/copyRandomList.cpp)|Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0139/wordBreak.cpp)|Medium|
 
 # To do
 
