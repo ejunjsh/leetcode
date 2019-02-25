@@ -139,6 +139,7 @@ learn algorithms and learn c++ by the way
 |135|[Candy](https://leetcode.com/problems/candy/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0135/candy.cpp)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0136/singleNumber.cpp)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0137/singleNumber2.cpp)|Easy|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0138/copyRandomList.cpp)|Medium|
 
 # To do
 
