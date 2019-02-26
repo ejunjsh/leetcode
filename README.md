@@ -146,6 +146,7 @@ learn algorithms and learn c++ by the way
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0142/detectCycle.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0143/reorderList.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0144/preorderTraversal.cpp) [C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0144/preorderTraversal-stack.cpp)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode-chao/blob/master/algorithms/0145/postorderTraversal.cpp)|Hard|
 
 # To do
 
