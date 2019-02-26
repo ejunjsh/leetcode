@@ -146,7 +146,7 @@ learn algorithms and learn c++ by the way
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0142/detectCycle.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0143/reorderList.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0144/preorderTraversal.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0144/preorderTraversal-stack.cpp)|Medium|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0145/postorderTraversal.cpp)|Hard|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0145/postorderTraversal.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0145/postorderTraversal-stack.cpp)|Hard|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0146/LRUCache.cpp)|Hard|
 
 # To do
