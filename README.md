@@ -151,6 +151,7 @@ learn algorithms and learn c++ by the way
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0147/insertionSortList.cpp)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0148/sortList.cpp)|Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0149/maxPoints.cpp)|Hard|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0150/evalRPN.cpp)|Medium|
 
 # To do
 
