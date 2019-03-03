@@ -156,6 +156,7 @@ learn algorithms and learn c++ by the way
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0152/maxProduct.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0152/maxProduct2.cpp)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0153/findMin.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0154/findMin.cpp)|Hard|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0155/minStack.cpp)|Easy|
 
 # To do
 
