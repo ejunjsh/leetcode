@@ -158,6 +158,7 @@ learn algorithms and learn c++ by the way
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0154/findMin.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0155/minStack.cpp)|Easy|
 |156|[🔒 Binary Tree Upside Down](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree-iterative.cpp)|Medium|
+|157|[🔒 Read N Characters Given Read4](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/read.cpp)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
