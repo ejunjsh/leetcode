@@ -160,6 +160,7 @@ learn algorithms and learn c++ by the way
 |156|[🔒 Binary Tree Upside Down](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree-iterative.cpp)|Medium|
 |157|[🔒 Read N Characters Given Read4](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/read.cpp)|Easy|
 |158|[🔒 Read N Characters Given Read4 II - Call multiple times](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/read.cpp)|Hard|
+|159|[🔒 Longest Substring with At Most Two Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/lengthOfLongestSubstringTwoDistinct.cpp)|Hard|
 
 __🔒 means these problems are available for subscription user__
 
