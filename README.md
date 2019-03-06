@@ -162,6 +162,7 @@ learn algorithms and learn c++ by the way
 |158|[🔒 Read N Characters Given Read4 II - Call multiple times](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/read.cpp)|Hard|
 |159|[🔒 Longest Substring with At Most Two Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/lengthOfLongestSubstringTwoDistinct.cpp)|Hard|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0160/getIntersectionNode.cpp)|Easy|
+|161|[🔒 One Edit Distance](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/isOneEditDistance.cpp)|Medium|
 
 __🔒 means these problems are available for subscription user__
 
