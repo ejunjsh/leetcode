@@ -168,6 +168,7 @@ learn algorithms and learn c++ by the way
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0164/maximumGap.cpp)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0165/compareVersion.cpp)|Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0166/fractionToDecimal.cpp)|Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0167/twoSum.cpp)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
