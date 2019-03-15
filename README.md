@@ -170,6 +170,7 @@ learn algorithms and learn c++ by the way
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0166/fractionToDecimal.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0167/twoSum.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-iterative.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-stack.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-bit.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-dac.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-map.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-mv.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-random.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-sort.cpp)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
