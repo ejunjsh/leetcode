@@ -172,6 +172,7 @@ learn algorithms and learn c++ by the way
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-iterative.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-stack.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-bit.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-dac.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-map.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-mv.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-random.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-sort.cpp)|Easy|
 |170|[🔒 Two Sum III - Data structure design](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/twoSum.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0171/titleToNumber.cpp)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
