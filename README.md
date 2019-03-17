@@ -176,7 +176,8 @@ learn algorithms and learn c++ by the way
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0172/trailingZeroes.cpp)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0173/BSTIterator.cpp)|Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0174/calculateMinimumHP.cpp)|Hard|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0175/combineTwoTables.sql)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0175/combineTwoTables.sql)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0176/secondHighestSalary.sql)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
