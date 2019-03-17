@@ -174,6 +174,7 @@ learn algorithms and learn c++ by the way
 |170|[🔒 Two Sum III - Data structure design](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/twoSum.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0171/titleToNumber.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0172/trailingZeroes.cpp)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0173/BSTIterator.cpp)|Medium|
 
 __🔒 means these problems are available for subscription user__
 
