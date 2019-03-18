@@ -178,6 +178,7 @@ learn algorithms and learn c++ by the way
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0174/calculateMinimumHP.cpp)|Hard|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0175/combineTwoTables.sql)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0176/secondHighestSalary.sql)|Easy|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0177/getNthHighestSalary.sql)|Medium|
 
 __🔒 means these problems are available for subscription user__
 
