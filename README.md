@@ -180,6 +180,7 @@ learn algorithms and learn c++ by the way
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0176/secondHighestSalary.sql)|Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0177/getNthHighestSalary.sql)|Medium|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0178/rankScores.sql)|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0179/largestNumber.cpp)|Medium|
 
 __🔒 means these problems are available for subscription user__
 
