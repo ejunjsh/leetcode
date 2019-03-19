@@ -184,6 +184,7 @@ learn algorithms and learn c++ by the way
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0180/ConsecutiveNums.sql)|Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0181/employees-earning-more-than-their-managers.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail.sql) [sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail-having.sql)|Easy|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0183/neverOrder.sql)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
