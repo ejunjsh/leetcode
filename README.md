@@ -182,6 +182,7 @@ learn algorithms and learn c++ by the way
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0178/rankScores.sql)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0179/largestNumber.cpp)|Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0180/ConsecutiveNums.sql)|Medium|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0181/employees-earning-more-than-their-managers.sql)|Easy|
 
 __🔒 means these problems are available for subscription user__
 
