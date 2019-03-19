@@ -185,6 +185,7 @@ learn algorithms and learn c++ by the way
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0181/employees-earning-more-than-their-managers.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail.sql) [sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail-having.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0183/neverOrder.sql)|Easy|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0184/highestSalary.sql)|Medium|
 
 __🔒 means these problems are available for subscription user__
 
