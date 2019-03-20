@@ -2,7 +2,7 @@
 
 learn algorithms and learn c++ by the way
 
-## algorithms
+## algorithms and others
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -186,10 +186,11 @@ learn algorithms and learn c++ by the way
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail.sql) [sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0182/duplicateEmail-having.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0183/neverOrder.sql)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0184/highestSalary.sql)|Medium|
+|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0185/top3Salary.sql)|Hard|
 
 __🔒 means these problems are available for subscription user__
 
-# To do
+## To do
 
 * [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 * [N-Queens](https://leetcode.com/problems/n-queens/)
