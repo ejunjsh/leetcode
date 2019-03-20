@@ -157,21 +157,21 @@ learn algorithms and learn c++ by the way
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0153/findMin.cpp)|Medium|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0154/findMin.cpp)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0155/minStack.cpp)|Easy|
-|156|[🔒 Binary Tree Upside Down](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree-iterative.cpp)|Medium|
-|157|[🔒 Read N Characters Given Read4](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/read.cpp)|Easy|
-|158|[🔒 Read N Characters Given Read4 II - Call multiple times](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/read.cpp)|Hard|
-|159|[🔒 Longest Substring with At Most Two Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/lengthOfLongestSubstringTwoDistinct.cpp)|Hard|
+|156|[💰 Binary Tree Upside Down](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0156/upsideDownBinaryTree-iterative.cpp)|Medium|
+|157|[💰 Read N Characters Given Read4](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0157/read.cpp)|Easy|
+|158|[💰 Read N Characters Given Read4 II - Call multiple times](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0158/read.cpp)|Hard|
+|159|[💰 Longest Substring with At Most Two Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0159/lengthOfLongestSubstringTwoDistinct.cpp)|Hard|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0160/getIntersectionNode.cpp)|Easy|
-|161|[🔒 One Edit Distance](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/isOneEditDistance.cpp)|Medium|
+|161|[💰 One Edit Distance](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0161/isOneEditDistance.cpp)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0162/findPeakElement.cpp)|Medium|
-|163|[🔒 Missing Ranges](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0163/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0163/findMissingRanges.cpp)|Medium|
+|163|[💰 Missing Ranges](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0163/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0163/findMissingRanges.cpp)|Medium|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0164/maximumGap.cpp)|Hard|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0165/compareVersion.cpp)|Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0166/fractionToDecimal.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0167/twoSum.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-iterative.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0168/convertToTitle-stack.cpp)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-bit.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-dac.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-map.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-mv.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-random.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0169/majorityElement-sort.cpp)|Easy|
-|170|[🔒 Two Sum III - Data structure design](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/twoSum.cpp)|Easy|
+|170|[💰 Two Sum III - Data structure design](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0170/twoSum.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0171/titleToNumber.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0172/trailingZeroes.cpp)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0173/BSTIterator.cpp)|Medium|
@@ -187,8 +187,9 @@ learn algorithms and learn c++ by the way
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0183/neverOrder.sql)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0184/highestSalary.sql)|Medium|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0185/top3Salary.sql)|Hard|
+|186|[💰 Reverse Words in a String II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/reverseWords.cpp)|Medium|
 
-__🔒 means these problems are available for subscription user__
+__💰 means these problems are available for subscription user__
 
 ## To do
 
