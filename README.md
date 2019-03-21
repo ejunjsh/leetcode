@@ -188,6 +188,7 @@ learn algorithms and learn c++ by the way
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0184/highestSalary.sql)|Medium|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0185/top3Salary.sql)|Hard|
 |186|[💰 Reverse Words in a String II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/reverseWords.cpp)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0187/findRepeatedDnaSequences.cpp)|Medium|
 
 __💰 means these problems are available for subscription user__
 
