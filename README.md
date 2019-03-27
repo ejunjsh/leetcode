@@ -190,6 +190,7 @@ learn algorithms and learn c++ by the way
 |186|[💰 Reverse Words in a String II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0186/reverseWords.cpp)|Medium|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0187/findRepeatedDnaSequences.cpp)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0188/maxProfit4.cpp)|Hard|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate2.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate3.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate4.cpp)|Easy|
 
 __💰 means these problems are available for subscription user__
 
