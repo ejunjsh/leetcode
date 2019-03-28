@@ -206,6 +206,7 @@ __💰 means these problems are available for subscription user__
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[shell](https://github.com/ejunjsh/leetcode/blob/master/shell/0192/wordCount.sh)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[shell](https://github.com/ejunjsh/leetcode/blob/master/shell/0193/awk.sh) [shell](https://github.com/ejunjsh/leetcode/blob/master/shell/0193/grep.sh) [shell](https://github.com/ejunjsh/leetcode/blob/master/shell/0193/sed.sh)|Easy|
 
 
 ## To do
