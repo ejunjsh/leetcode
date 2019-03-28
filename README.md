@@ -201,6 +201,7 @@ __💰 means these problems are available for subscription user__
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0184/highestSalary.sql)|Medium|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0185/top3Salary.sql)|Hard|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0196/delete-duplicate-emails.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0197/rasingTemperature.sql)|Easy|
 
 ## shell
 
