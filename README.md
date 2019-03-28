@@ -192,6 +192,7 @@ learn algorithms and learn c++ by the way
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0188/maxProfit4.cpp)|Hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate2.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate3.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0189/rotate4.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0190/reverseBits.cpp)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0191/hammingWeight.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0191/hammingWeight-trick.cpp)|Easy|
 
 __💰 means these problems are available for subscription user__
 
