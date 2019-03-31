@@ -186,6 +186,7 @@ __💰 means these problems are available for subscription user__
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0190/reverseBits.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0191/hammingWeight.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0191/hammingWeight-trick.cpp)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0198/rob-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0198/rob-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0198/rob-memo2.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0198/rob-memo3.cpp) |Easy|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0199/rightSideView.cpp)|Medium|
 
 ## sql
 
