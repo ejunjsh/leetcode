@@ -192,6 +192,7 @@ __💰 means these problems are available for subscription user__
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0202/isHappy.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0202/isHappy-set.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0203/removeElements.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0204/countPrimes.cpp)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0205/isIsomorphic.cpp)|Easy|
 
 ## sql
 
