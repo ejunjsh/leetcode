@@ -190,6 +190,7 @@ __💰 means these problems are available for subscription user__
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0200/numIslands.cpp)|Medium|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0201/rangeBitwiseAnd.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0202/isHappy.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0202/isHappy-set.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0203/removeElements.cpp)|Easy|
 
 ## sql
 
