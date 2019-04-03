@@ -194,6 +194,7 @@ __💰 means these problems are available for subscription user__
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0204/countPrimes.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0205/isIsomorphic.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0206/reverseList-iterative.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0206/reverseList-recursion.cpp)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0207/canFinish-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0207/canFinish-dfs.cpp)|Medium|
 
 ## sql
 
