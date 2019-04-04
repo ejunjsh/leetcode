@@ -197,6 +197,7 @@ __💰 means these problems are available for subscription user__
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0207/canFinish-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0207/canFinish-dfs.cpp)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0208/trie.cpp)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0209/minSubArrayLen-bf.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0209/minSubArrayLen-bf1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0209/minSubArrayLen-bs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0209/minSubArrayLen-tp.cpp)|Medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0210/findOrder-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0210/findOrder-indegree.cpp)|Medium|
 
 ## sql
 
