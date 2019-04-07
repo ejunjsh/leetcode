@@ -200,6 +200,7 @@ __💰 means these problems are available for subscription user__
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0210/findOrder-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0210/findOrder-indegree.cpp)|Medium|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0211/wordDict.cpp)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0212/findWords.cpp)|Hard|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0213/rob.cpp)|Medium|
 
 ## sql
 
