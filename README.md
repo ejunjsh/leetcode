@@ -202,6 +202,7 @@ __💰 means these problems are available for subscription user__
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0212/findWords.cpp)|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0213/rob.cpp)|Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-tp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-kmp.cpp)|Hard|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest-pq.cpp)|Medium|
 
 ## sql
 
