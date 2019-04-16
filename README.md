@@ -204,6 +204,7 @@ __💰 means these problems are available for subscription user__
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-tp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-kmp.cpp)|Hard|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest-pq.cpp)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0216/combinationSum3.cpp)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0217/containsDuplicate.cpp)|Easy|
 
 ## sql
 
