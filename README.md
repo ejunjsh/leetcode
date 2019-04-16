@@ -201,6 +201,7 @@ __💰 means these problems are available for subscription user__
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0211/wordDict.cpp)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0212/findWords.cpp)|Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0213/rob.cpp)|Medium|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-tp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0214/shortestPalindrome-kmp.cpp)|Hard|
 
 ## sql
 
