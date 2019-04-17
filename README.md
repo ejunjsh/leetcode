@@ -207,6 +207,7 @@ __💰 means these problems are available for subscription user__
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0217/containsDuplicate.cpp)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0218/getSkyline.cpp)|Hard|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0219/containsNearbyDuplicate.cpp)|Easy|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0220/containsNearbyAlmostDuplicate.cpp)|Medium|
 
 ## sql
 
