@@ -205,6 +205,7 @@ __💰 means these problems are available for subscription user__
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0215/findKthLargest-pq.cpp)|Medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0216/combinationSum3.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0217/containsDuplicate.cpp)|Easy|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0218/getSkyline.cpp)|Hard|
 
 ## sql
 
