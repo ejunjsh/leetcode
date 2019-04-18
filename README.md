@@ -209,6 +209,7 @@ __💰 means these problems are available for subscription user__
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0219/containsNearbyDuplicate.cpp)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0220/containsNearbyAlmostDuplicate.cpp)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0221/maximalSquare.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0221/maximalSquare-o.cpp)|Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0222/countNodes.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0222/countNodes-1.cpp)|Medium|
 
 ## sql
 
