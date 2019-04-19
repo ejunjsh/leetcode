@@ -213,6 +213,7 @@ __💰 means these problems are available for subscription user__
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0223/computeArea.cpp)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0224/calculate.cpp)|Hard|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0225/MyStack.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0225/MyStack-1.cpp)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-recursion-1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-iterative.cpp)|Easy|
 
 
 ## sql
