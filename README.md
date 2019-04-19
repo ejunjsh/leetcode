@@ -212,6 +212,7 @@ __💰 means these problems are available for subscription user__
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0222/countNodes.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0222/countNodes-1.cpp)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0223/computeArea.cpp)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0224/calculate.cpp)|Hard|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0225/MyStack.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0225/MyStack-1.cpp)|Easy|
 
 
 ## sql
