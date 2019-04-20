@@ -216,6 +216,7 @@ __💰 means these problems are available for subscription user__
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-recursion-1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0226/invertTree-iterative.cpp)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0227/calculate.cpp)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0228/summaryRanges.cpp)|Medium|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0229/majorityElement.cpp)|Medium|
 
 ## sql
 
