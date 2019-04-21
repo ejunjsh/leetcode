@@ -219,6 +219,7 @@ __💰 means these problems are available for subscription user__
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0229/majorityElement.cpp)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-stack.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-count.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-followup.cpp)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0231/isPowerOfTwo.cpp)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0232/MyQueue.cpp)|Easy|
 
 ## sql
 
