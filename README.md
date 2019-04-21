@@ -217,6 +217,7 @@ __💰 means these problems are available for subscription user__
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0227/calculate.cpp)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0228/summaryRanges.cpp)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0229/majorityElement.cpp)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-stack.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-count.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-followup.cpp)|Medium|
 
 ## sql
 
