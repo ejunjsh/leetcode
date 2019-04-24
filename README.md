@@ -220,6 +220,7 @@ __💰 means these problems are available for subscription user__
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-stack.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-count.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0230/kthSmallest-followup.cpp)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0231/isPowerOfTwo.cpp)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0232/MyQueue.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0232/MyQueue.1.cpp)|Easy|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0233/countDigitOne.cpp)|Hard|
 
 ## sql
 
