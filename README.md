@@ -57,6 +57,8 @@ __💰 means these problems are available for subscription user__
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0048/rotate.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0049/groupAnagrams.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0050/myPow.cpp)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0051/solveNQueens.cpp)|Hard|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0052/totalNQueens.cpp)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0053/maxSubArray.cpp)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0054/spiralOrder.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0055/canJump.cpp)|Medium|
@@ -261,7 +263,5 @@ __💰 means these problems are available for subscription user__
 ## To do
 
 * [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
-* [N-Queens](https://leetcode.com/problems/n-queens/)
-* [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
 * [Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
 * [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
