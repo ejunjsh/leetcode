@@ -227,6 +227,7 @@ __💰 means these problems are available for subscription user__
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0237/deleteNode.cpp)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0238/productExceptSelf.cpp)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0239/maxSlidingWindow.cpp)|Hard|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0240/searchMatrix.cpp)|Medium|
 
 ## sql
 
