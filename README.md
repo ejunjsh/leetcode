@@ -229,6 +229,7 @@ __💰 means these problems are available for subscription user__
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0239/maxSlidingWindow.cpp)|Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0240/searchMatrix.cpp)|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0241/diffWaysToCompute.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0241/diffWaysToCompute-dp.cpp)|Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0242/isAnagram.cpp)|Easy|
 
 ## sql
 
