@@ -234,6 +234,7 @@ __💰 means these problems are available for subscription user__
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0242/isAnagram.cpp)|Easy|
 |243|[💰 Shortest Word Distance](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0243/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0243/shortestDistance.cpp)|Easy|
 |244|[💰 Shortest Word Distance II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0244/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0244/WordDistance.cpp)|Medium|
+|245|[💰 Shortest Word Distance III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0245/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0245/shortestWordDistance.cpp)|Medium|
 
 ## sql
 
