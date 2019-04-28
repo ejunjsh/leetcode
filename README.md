@@ -235,6 +235,7 @@ __💰 means these problems are available for subscription user__
 |243|[💰 Shortest Word Distance](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0243/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0243/shortestDistance.cpp)|Easy|
 |244|[💰 Shortest Word Distance II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0244/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0244/WordDistance.cpp)|Medium|
 |245|[💰 Shortest Word Distance III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0245/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0245/shortestWordDistance.cpp)|Medium|
+|246|[💰 Strobogrammatic Number](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0246/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0246/isStrobogrammatic.cpp)|Easy|
 
 ## sql
 
