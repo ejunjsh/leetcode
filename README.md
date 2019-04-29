@@ -240,6 +240,7 @@ __💰 means these problems are available for subscription user__
 |248|[💰 Strobogrammatic Number III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0248/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0248/strobogrammaticInRange.cpp)|Hard|
 |249|[💰 Group Shifted Strings](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0249/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0249/groupStrings.cpp)|Medium|
 |250|[💰 Count Univalue Subtrees](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0250/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0250/countUnivalSubtrees.cpp)|Medium|
+|251|[💰 Flatten 2D Vector](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0251/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0251/Vector2D.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0251/Vector2D-iterator.cpp)|Medium|
 
 ## sql
 
