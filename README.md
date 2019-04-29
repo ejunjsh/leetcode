@@ -238,6 +238,7 @@ __💰 means these problems are available for subscription user__
 |246|[💰 Strobogrammatic Number](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0246/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0246/isStrobogrammatic.cpp)|Easy|
 |247|[💰 Strobogrammatic Number II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0247/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0247/findStrobogrammatic.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0247/findStrobogrammatic-iterative.cpp)|Medium|
 |248|[💰 Strobogrammatic Number III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0248/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0248/strobogrammaticInRange.cpp)|Hard|
+|249|[💰 Group Shifted Strings](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0249/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0249/groupStrings.cpp)|Medium|
 
 ## sql
 
