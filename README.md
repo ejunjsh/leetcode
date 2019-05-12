@@ -245,6 +245,7 @@ __💰 means these problems are available for subscription user__
 |253|[💰 Meeting Rooms II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0253/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0253/minMeetingRooms.cpp)|Medium|
 |254|[💰 Factor Combinations](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0254/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0254/getFactors.cpp)|Medium|
 |255|[💰 Verify Preorder Sequence in Binary Search Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/verifyPreorder.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/verifyPreorder-followup.cpp)|Medium|
+|256|[💰 Paint House](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/minCost.cpp)|Easy|
 
 ## sql
 
