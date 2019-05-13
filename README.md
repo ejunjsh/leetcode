@@ -248,6 +248,7 @@ __💰 means these problems are available for subscription user__
 |256|[💰 Paint House](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/minCost.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0257/binaryTreePaths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0258/addDigits.cpp)|Easy|
+|259|[💰 3Sum Smaller](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0259/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0259/threeSumSmaller.cpp)|Medium|
 
 ## sql
 
