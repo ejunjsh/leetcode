@@ -247,6 +247,7 @@ __💰 means these problems are available for subscription user__
 |255|[💰 Verify Preorder Sequence in Binary Search Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/verifyPreorder.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0255/verifyPreorder-followup.cpp)|Medium|
 |256|[💰 Paint House](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0256/minCost.cpp)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0257/binaryTreePaths.cpp)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0258/addDigits.cpp)|Easy|
 
 ## sql
 
