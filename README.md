@@ -251,6 +251,7 @@ __💰 means these problems are available for subscription user__
 |259|[💰 3Sum Smaller](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0259/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0259/threeSumSmaller.cpp)|Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0260/singleNumber.cpp)|Medium|
 |261|[💰 Graph Valid Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-uf.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-bfs.cpp)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0263/isUgly.cpp)|Easy|
 
 ## sql
 
