@@ -253,6 +253,7 @@ __💰 means these problems are available for subscription user__
 |261|[💰 Graph Valid Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-uf.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0261/validTree-bfs.cpp)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0263/isUgly.cpp)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0264/nthUglyNumber.cpp)|Medium|
+|265|[💰 Paint House II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/minCostII.cpp)|Hard|
 
 ## sql
 
