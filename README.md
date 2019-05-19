@@ -255,6 +255,7 @@ __💰 means these problems are available for subscription user__
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0264/nthUglyNumber.cpp)|Medium|
 |265|[💰 Paint House II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/minCostII.cpp)|Hard|
 |266|[💰 Palindrome Permutation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome-1.cpp)|Easy|
+|267|[💰 Palindrome Permutation II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/generatePalindromes.cpp)|Medium|
 
 ## sql
 
