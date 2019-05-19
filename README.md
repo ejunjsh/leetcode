@@ -256,6 +256,7 @@ __💰 means these problems are available for subscription user__
 |265|[💰 Paint House II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0265/minCostII.cpp)|Hard|
 |266|[💰 Palindrome Permutation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome-1.cpp)|Easy|
 |267|[💰 Palindrome Permutation II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/generatePalindromes.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0268/missingNumber-bit.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0268/missingNumber-gauss.cpp)|Easy|
 
 ## sql
 
