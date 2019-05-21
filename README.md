@@ -257,6 +257,7 @@ __💰 means these problems are available for subscription user__
 |266|[💰 Palindrome Permutation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0266/canPermutePalindrome-1.cpp)|Easy|
 |267|[💰 Palindrome Permutation II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0267/generatePalindromes.cpp)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0268/missingNumber-bit.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0268/missingNumber-gauss.cpp)|Easy|
+|269|[💰 Alien Dictionary](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0269/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0269/alienOrder-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0269/alienOrder-dfs.cpp)|Hard|
 
 ## sql
 
