@@ -264,6 +264,7 @@ __💰 means these problems are available for subscription user__
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0273/numberToWords.cpp)|Hard|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0274/hIndex.cpp)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0275/hIndex.cpp)|Medium|
+|276|[💰 Paint Fence](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0276/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0276/numWays.cpp)|Easy|
 
 ## sql
 
