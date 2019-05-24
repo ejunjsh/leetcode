@@ -267,6 +267,7 @@ __💰 means these problems are available for subscription user__
 |276|[💰 Paint Fence](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0276/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0276/numWays.cpp)|Easy|
 |277|[💰 Find the Celebrity](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0277/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0277/findCelebrity.cpp)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0278/firstBadVersion.cpp)|Easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0279/numSquares-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0279/numSquares.cpp)|Medium|
 
 ## sql
 
