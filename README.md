@@ -269,6 +269,7 @@ __💰 means these problems are available for subscription user__
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0278/firstBadVersion.cpp)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0279/numSquares-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0279/numSquares.cpp)|Medium|
 |280|[💰 Wiggle Sort](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0280/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0280/wiggleSort.cpp)|Medium|
+|281|[💰 Zigzag Iterator](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0281/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0281/ZigzagIterator.cpp)|Medium|
 
 ## sql
 
