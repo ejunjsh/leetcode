@@ -271,6 +271,7 @@ __💰 means these problems are available for subscription user__
 |280|[💰 Wiggle Sort](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0280/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0280/wiggleSort.cpp)|Medium|
 |281|[💰 Zigzag Iterator](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0281/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0281/ZigzagIterator.cpp)|Medium|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0282/addOperators.cpp)|Hard|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0283/moveZeroes.cpp)|Easy|
 
 ## sql
 
