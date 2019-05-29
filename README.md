@@ -276,6 +276,7 @@ __💰 means these problems are available for subscription user__
 |285|[💰 Inorder Successor in BST](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0285/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0285/inorderSuccessor.cpp)|Medium|
 |286|[💰 Walls and Gates](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0286/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0286/wallsAndGates-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0286/wallsAndGates-bfs.cpp)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0287/findDuplicate.cpp)|Medium|
+|288|[💰 Unique Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0288/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0288/ValidWordAbbr.cpp)|Medium|
 
 ## sql
 
