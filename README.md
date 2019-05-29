@@ -278,6 +278,7 @@ __💰 means these problems are available for subscription user__
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0287/findDuplicate.cpp)|Medium|
 |288|[💰 Unique Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0288/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0288/ValidWordAbbr.cpp)|Medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0289/gameOfLife.cpp)|Medium|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0290/wordPattern.cpp)|Easy|
 
 ## sql
 
