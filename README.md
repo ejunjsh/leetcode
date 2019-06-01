@@ -280,6 +280,7 @@ __💰 means these problems are available for subscription user__
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0289/gameOfLife.cpp)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0290/wordPattern.cpp)|Easy|
 |291|[💰 Word Pattern II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0291/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0291/wordPatternMatch.cpp)|Hard|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0292/canWinNim.cpp)|Easy|
 
 ## sql
 
