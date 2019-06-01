@@ -282,6 +282,7 @@ __💰 means these problems are available for subscription user__
 |291|[💰 Word Pattern II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0291/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0291/wordPatternMatch.cpp)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0292/canWinNim.cpp)|Easy|
 |293|[💰 Flip Game](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0293/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0293/generatePossibleNextMoves.cpp)|Easy|
+|294|[💰 Flip Game II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0294/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0294/canWin.cpp)|Medium|
 
 ## sql
 
