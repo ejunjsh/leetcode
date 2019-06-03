@@ -286,6 +286,7 @@ __💰 means these problems are available for subscription user__
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0295/MedianFinder.cpp)|Hard|
 |296|[💰 Best Meeting Point](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0296/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0296/minTotalDistance.cpp)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0297/Codec.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0297/Codec-bfs.cpp)|Hard|
+|298|[💰 Binary Tree Longest Consecutive Sequence](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0298/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0298/longestConsecutive.cpp)|Medium|
 
 ## sql
 
