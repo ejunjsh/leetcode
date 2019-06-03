@@ -288,6 +288,7 @@ __💰 means these problems are available for subscription user__
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0297/Codec.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0297/Codec-bfs.cpp)|Hard|
 |298|[💰 Binary Tree Longest Consecutive Sequence](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0298/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0298/longestConsecutive.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0299/getHint.cpp)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp-bs.cpp)|Medium|
 
 ## sql
 
