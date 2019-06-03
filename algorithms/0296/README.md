@@ -5,11 +5,11 @@ A group of two or more people wants to meet and minimize the total travel distan
 
 For example, given three people living at (0,0), (0,4), and (2,2):
 
-1 - 0 - 0 - 0 - 1
-|   |   |   |   |
-0 - 0 - 0 - 0 - 0
-|   |   |   |   |
-0 - 0 - 1 - 0 - 0
+    1 - 0 - 0 - 0 - 1
+    |   |   |   |   |
+    0 - 0 - 0 - 0 - 0
+    |   |   |   |   |
+    0 - 0 - 1 - 0 - 0
 
 The point (0,2) is an ideal meeting point, as the total travel distance of 2+2+2=6 is minimal. So return 6.
 
