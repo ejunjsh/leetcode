@@ -290,6 +290,7 @@ __💰 means these problems are available for subscription user__
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0299/getHint.cpp)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp-bs.cpp)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0301/removeInvalidParentheses.cpp)|Hard|
+|302|[💰 Smallest Rectangle Enclosing Black Pixels](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/minArea.cpp)|Hard|
 
 ## sql
 
