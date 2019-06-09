@@ -292,6 +292,7 @@ __💰 means these problems are available for subscription user__
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0301/removeInvalidParentheses.cpp)|Hard|
 |302|[💰 Smallest Rectangle Enclosing Black Pixels](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/minArea.cpp)|Hard|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0303/NumArray.cpp)|Easy|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0304/NumMatrix.cpp)|Medium|
 
 ## sql
 
