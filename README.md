@@ -291,6 +291,7 @@ __💰 means these problems are available for subscription user__
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0300/lengthOfLIS-dp-bs.cpp)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0301/removeInvalidParentheses.cpp)|Hard|
 |302|[💰 Smallest Rectangle Enclosing Black Pixels](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0302/minArea.cpp)|Hard|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0303/NumArray.cpp)|Easy|
 
 ## sql
 
