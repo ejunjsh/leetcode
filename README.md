@@ -296,6 +296,7 @@ __💰 means these problems are available for subscription user__
 |305|[💰 Number of Islands II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0305/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0305/numIslands2.cpp)|Hard|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0306/isAdditiveNumber.cpp)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0307/NumArray.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0307/NumArray-1.cpp)|Medium|
+|308|[💰 Range Sum Query 2D - Mutable](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0308/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0308/NumMatrix.cpp)|Hard|
 
 ## sql
 
