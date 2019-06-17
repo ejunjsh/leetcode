@@ -300,6 +300,7 @@ __💰 means these problems are available for subscription user__
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0307/NumArray.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0307/NumArray-1.cpp)|Medium|
 |308|[💰 Range Sum Query 2D - Mutable](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0308/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0308/NumMatrix.cpp)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0309/maxProfit.cpp)|Medium|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0310/findMinHeightTrees.cpp)|Medium|
 
 ## sql
 
