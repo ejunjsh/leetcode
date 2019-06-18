@@ -1,6 +1,8 @@
 # leetcode
 
 ![](https://img.shields.io/badge/language-C++-red.svg)
+![](https://img.shields.io/badge/language-sql-purple.svg)
+![](https://img.shields.io/badge/language-shell-green.svg)
 
 learn algorithms and learn c++ by the way
 
@@ -302,6 +304,7 @@ __💰 means these problems are available for subscription user__
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0309/maxProfit.cpp)|Medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0310/findMinHeightTrees.cpp)|Medium|
 |311|[💰 Sparse Matrix Multiplication](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0311/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0311/multiply.cpp)|Medium|
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0312/maxCoins.cpp)|Hard|
 
 ## sql
 
