@@ -306,6 +306,7 @@ __💰 means these problems are available for subscription user__
 |311|[💰 Sparse Matrix Multiplication](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0311/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0311/multiply.cpp)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0312/maxCoins.cpp)|Hard|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0313/nthSuperUglyNumber.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0313/nthSuperUglyNumber.1.cpp)|Medium|
+|314|[💰 Binary Tree Vertical Order Traversal](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0314/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0314/verticalOrder.cpp)|Medium|
 
 ## sql
 
