@@ -309,6 +309,7 @@ __💰 means these problems are available for subscription user__
 |314|[💰 Binary Tree Vertical Order Traversal](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0314/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0314/verticalOrder.cpp)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0315/countSmaller.cpp)|Hard|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0316/removeDuplicateLetters.cpp)|Hard|
+|317|[💰 Shortest Distance from All Buildings](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0317/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0317/shortestDistance.cpp)|Hard|
 
 ## sql
 
