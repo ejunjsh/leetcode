@@ -314,6 +314,7 @@ __💰 means these problems are available for subscription user__
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0319/bulbSwitch.cpp)|Medium|
 |320|[💰 Generalized Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0320/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0320/generateAbbreviations.cpp)|Medium|
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0321/maxNumber.cpp)|Hard|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0322/coinChange.cpp)|Medium|
 
 ## sql
 
