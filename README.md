@@ -319,6 +319,7 @@ __💰 means these problems are available for subscription user__
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0324/wiggleSort.cpp)|Medium|
 |325|[💰 Maximum Size Subarray Sum Equals k](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0325/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0325/maxSubArrayLen.cpp)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0326/isPowerOfThree.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0326/isPowerOfThree1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0326/isPowerOfThree2.cpp)|Easy|
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0327/countRangeSum.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0327/countRangeSum1.cpp)|Hard|
 
 ## sql
 
