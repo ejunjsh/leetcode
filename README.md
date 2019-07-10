@@ -324,6 +324,7 @@ __💰 means these problems are available for subscription user__
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0329/longestIncreasingPath-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0329/longestIncreasingPath-dfs.cpp)|Hard|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0330/minPatches.cpp)|Hard|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0331/isValidSerialization.cpp)|Medium|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0332/findItinerary.cpp)|Medium|
 
 ## sql
 
