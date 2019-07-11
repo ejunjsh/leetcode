@@ -326,6 +326,7 @@ __💰 means these problems are available for subscription user__
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0331/isValidSerialization.cpp)|Medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0332/findItinerary.cpp)|Medium|
 |333|[💰 Largest BST Subtree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/largestBSTSubtree.cpp)|Medium|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0334/increasingTriplet.cpp)|Medium|
 
 ## sql
 
