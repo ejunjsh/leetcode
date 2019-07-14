@@ -328,6 +328,7 @@ __💰 means these problems are available for subscription user__
 |333|[💰 Largest BST Subtree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/largestBSTSubtree.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0334/increasingTriplet.cpp)|Medium|
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0335/isSelfCrossing.cpp)|Hard|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0336/palindromePairs.cpp)|Hard|
 
 ## sql
 
