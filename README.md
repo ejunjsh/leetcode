@@ -327,6 +327,7 @@ __💰 means these problems are available for subscription user__
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0332/findItinerary.cpp)|Medium|
 |333|[💰 Largest BST Subtree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0333/largestBSTSubtree.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0334/increasingTriplet.cpp)|Medium|
+|335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0335/isSelfCrossing.cpp)|Hard|
 
 ## sql
 
