@@ -330,6 +330,7 @@ __💰 means these problems are available for subscription user__
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0335/isSelfCrossing.cpp)|Hard|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0336/palindromePairs.cpp)|Hard|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0337/rob.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0337/rob.1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0337/rob-dp.cpp)|Medium|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0338/countBits.cpp)|Medium|
 
 ## sql
 
