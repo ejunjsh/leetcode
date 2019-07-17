@@ -333,6 +333,7 @@ __💰 means these problems are available for subscription user__
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0338/countBits.cpp)|Medium|
 |339|[💰 Nested List Weight Sum](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0339/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0339/depthSum.cpp)|Easy|
 |340|[💰 Longest Substring with At Most K Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0340/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0340/lengthOfLongestSubstringKDistinct.cpp)|Hard|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0341/NestedIterator.cpp)|Medium|
 
 ## sql
 
