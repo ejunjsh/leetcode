@@ -335,6 +335,7 @@ __💰 means these problems are available for subscription user__
 |340|[💰 Longest Substring with At Most K Distinct Characters](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0340/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0340/lengthOfLongestSubstringKDistinct.cpp)|Hard|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0341/NestedIterator.cpp)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0342/isPowerOfFour.cpp)|Easy|
+|343|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0343/integerBreak.cpp)|Medium|
 
 ## sql
 
