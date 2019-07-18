@@ -342,6 +342,7 @@ __💰 means these problems are available for subscription user__
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0347/topKFrequent.cpp)|Medium|
 |348|[💰 Design Tic-Tac-Toe](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0348/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0348/TicTacToe.cpp)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0349/intersection.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0350/intersect.cpp)|Easy|
 
 ## sql
 
