@@ -340,6 +340,7 @@ __💰 means these problems are available for subscription user__
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0345/reverseVowels.cpp)|Easy|
 |346|[💰 Moving Average from Data Stream](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0346/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0346/MovingAverage.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0347/topKFrequent.cpp)|Medium|
+|348|[💰 Design Tic-Tac-Toe](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0348/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0348/TicTacToe.cpp)|Medium|
 
 ## sql
 
