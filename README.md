@@ -338,6 +338,7 @@ __💰 means these problems are available for subscription user__
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0343/integerBreak.cpp)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0344/reverseString.cpp)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0345/reverseVowels.cpp)|Easy|
+|346|[💰 Moving Average from Data Stream](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0346/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0346/MovingAverage.cpp)|Easy|
 
 ## sql
 
