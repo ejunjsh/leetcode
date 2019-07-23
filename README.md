@@ -344,6 +344,7 @@ __💰 means these problems are available for subscription user__
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0349/intersection.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0350/intersect.cpp)|Easy|
 |351|[💰 Android Unlock Patterns](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0351/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0351/numberOfPatterns.cpp)|Medium|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0352/SummaryRanges.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0352/SummaryRanges-set.cpp)|Hard|
 
 ## sql
 
