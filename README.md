@@ -347,6 +347,7 @@ __💰 means these problems are available for subscription user__
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0352/SummaryRanges.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0352/SummaryRanges-set.cpp)|Hard|
 |353|[💰 Design Snake Game](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0353/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0353/SnakeGame.cpp)|Medium|
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0354/maxEnvelopes-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0354/maxEnvelopes-dp-bs.cpp)|Hard|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0355/Twitter.cpp)|Medium|
 
 ## sql
 
