@@ -349,6 +349,7 @@ __💰 means these problems are available for subscription user__
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0354/maxEnvelopes-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0354/maxEnvelopes-dp-bs.cpp)|Hard|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0355/Twitter.cpp)|Medium|
 |356|[💰 Line Reflection](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0356/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0356/isReflected.cpp)|Medium|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0357/countNumbersWithUniqueDigits.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0357/countNumbersWithUniqueDigits-bt.cpp)|Medium|
 
 ## sql
 
