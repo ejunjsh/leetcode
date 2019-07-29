@@ -351,6 +351,7 @@ __💰 means these problems are available for subscription user__
 |356|[💰 Line Reflection](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0356/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0356/isReflected.cpp)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0357/countNumbersWithUniqueDigits.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0357/countNumbersWithUniqueDigits-bt.cpp)|Medium|
 |358|[💰 Rearrange String k Distance Apart](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0358/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0358/rearrangeString.cpp)|Hard|
+|359|[💰 Logger Rate Limiter](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0359/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0359/Logger.cpp)|Easy|
 
 ## sql
 
