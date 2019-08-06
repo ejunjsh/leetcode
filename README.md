@@ -355,6 +355,7 @@ __💰 means these problems are available for subscription user__
 |360|[💰 Sort Transformed Array](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0360/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0360/sortTransformedArray.cpp)|Medium|
 |361|[💰 Bomb Enemy](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0361/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0361/maxKilledEnemies.cpp)|Medium|
 |362|[💰 Design Hit Counter](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0362/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0362/HitCounter.cpp)|Medium|
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0363/maxSumSubmatrix.cpp)|Hard|
 
 ## sql
 
