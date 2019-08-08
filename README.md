@@ -359,6 +359,7 @@ __💰 means these problems are available for subscription user__
 |364|[💰 Nested List Weight Sum II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0364/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0364/depthSumInverse.cpp)|Medium|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0365/canMeasureWater.cpp)|Medium|
 |366|[💰 Find Leaves of Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0366/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0366/findLeaves.cpp)|Medium|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0367/isPerfectSquare.cpp)|Easy|
 
 ## sql
 
