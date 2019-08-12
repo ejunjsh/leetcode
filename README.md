@@ -362,6 +362,7 @@ __💰 means these problems are available for subscription user__
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0367/isPerfectSquare.cpp)|Easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0368/largestDivisibleSubset.cpp)|Medium|
 |369|[💰 Plus One Linked List](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/plusOne.cpp)|Medium|
+|370|[💰 Range Addition](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0370/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0370/getModifiedArray.cpp)|Medium|
 
 ## sql
 
