@@ -360,6 +360,8 @@ __💰 means these problems are available for subscription user__
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0365/canMeasureWater.cpp)|Medium|
 |366|[💰 Find Leaves of Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0366/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0366/findLeaves.cpp)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0367/isPerfectSquare.cpp)|Easy|
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0368/largestDivisibleSubset.cpp)|Medium|
+|369|[💰 Plus One Linked List](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/plusOne.cpp)|Medium|
 
 ## sql
 
