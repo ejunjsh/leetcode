@@ -366,6 +366,7 @@ __💰 means these problems are available for subscription user__
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0371/getSum.cpp)|Easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0372/superPow.cpp)|Medium|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0373/kSmallestPairs.cpp)|Medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0374/guessNumber.cpp)|Easy|
 
 ## sql
 
