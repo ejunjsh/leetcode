@@ -363,6 +363,7 @@ __💰 means these problems are available for subscription user__
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0368/largestDivisibleSubset.cpp)|Medium|
 |369|[💰 Plus One Linked List](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0369/plusOne.cpp)|Medium|
 |370|[💰 Range Addition](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0370/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0370/getModifiedArray.cpp)|Medium|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0371/getSum.cpp)|Easy|
 
 ## sql
 
