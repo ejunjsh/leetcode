@@ -367,6 +367,9 @@ __💰 means these problems are available for subscription user__
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0372/superPow.cpp)|Medium|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0373/kSmallestPairs.cpp)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0374/guessNumber.cpp)|Easy|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0375/getMoneyAmount.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-bf.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.2.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.3.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-greedy.cpp)|Medium|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0377/combinationSum4.cpp)|Medium|
 
 ## sql
 
