@@ -371,7 +371,7 @@ __💰 means these problems are available for subscription user__
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-bf.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.1.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.2.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-dp.3.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0376/wiggleMaxLength-greedy.cpp)|Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0377/combinationSum4.cpp)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0378/kthSmallest-heap.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0378/kthSmallest-bf.cpp)|Medium|
-
+|379|[💰 Design Phone Directory](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0379/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0379/PhoneDirectory.cpp)|Medium|
 ## sql
 
 | # | Title | Solution | Difficulty |
