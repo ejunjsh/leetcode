@@ -376,6 +376,7 @@ __💰 means these problems are available for subscription user__
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0381/RandomizedCollection.cpp)|Hard|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0382/randomLinkedList.cpp)|Medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0383/canConstruct-map.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0383/canConstruct-vector.cpp)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0384/shuffle.cpp)|Medium|
 
 ## sql
 
