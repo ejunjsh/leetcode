@@ -381,6 +381,7 @@ __💰 means these problems are available for subscription user__
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0386/lexicalOrder.cpp)|Medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0387/firstUniqChar.cpp)|Easy|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0388/lengthLongestPath.cpp)|Medium|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0389/findTheDifference.cpp)|Easy|
 
 ## sql
 
