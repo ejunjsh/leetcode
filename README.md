@@ -378,6 +378,7 @@ __💰 means these problems are available for subscription user__
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0383/canConstruct-map.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0383/canConstruct-vector.cpp)|Easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0384/shuffle.cpp)|Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0385/NestedInteger.cpp)|Medium|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0386/lexicalOrder.cpp)|Medium|
 
 ## sql
 
