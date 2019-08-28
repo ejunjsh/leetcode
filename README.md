@@ -383,6 +383,7 @@ __💰 means these problems are available for subscription user__
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0388/lengthLongestPath.cpp)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0389/findTheDifference.cpp)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0390/lastRemaining.cpp)|Medium|
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0391/isRectangleCover.cpp)|Hard|
 
 ## sql
 
