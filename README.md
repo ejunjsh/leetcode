@@ -384,6 +384,7 @@ __💰 means these problems are available for subscription user__
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0389/findTheDifference.cpp)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0390/lastRemaining.cpp)|Medium|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0391/isRectangleCover.cpp)|Hard|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0392/isSubsequence.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0392/isSubsequence-followup.cpp)|Easy|
 
 ## sql
 
