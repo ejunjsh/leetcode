@@ -386,6 +386,7 @@ __💰 means these problems are available for subscription user__
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0391/isRectangleCover.cpp)|Hard|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0392/isSubsequence.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0392/isSubsequence-followup.cpp)|Easy|
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0393/validUtf8.cpp)|Medium|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0394/decodeString.cpp)|Medium|
 
 ## sql
 
