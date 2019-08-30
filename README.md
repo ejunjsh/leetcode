@@ -390,6 +390,7 @@ __💰 means these problems are available for subscription user__
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0395/longestSubstring.cpp)|Medium|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0396/maxRotateFunction.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0397/integerReplacement.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0397/integerReplacement-1.cpp)|Medium|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0398/pick.cpp)|Medium|
 
 ## sql
 
