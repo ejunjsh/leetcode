@@ -388,6 +388,7 @@ __💰 means these problems are available for subscription user__
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0393/validUtf8.cpp)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0394/decodeString.cpp)|Medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0395/longestSubstring.cpp)|Medium|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0396/maxRotateFunction.cpp)|Medium|
 
 ## sql
 
