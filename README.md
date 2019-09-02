@@ -391,6 +391,7 @@ __💰 means these problems are available for subscription user__
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0396/maxRotateFunction.cpp)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0397/integerReplacement.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0397/integerReplacement-1.cpp)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0398/pick.cpp)|Medium|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0399/calcEquation.cpp)|Medium|
 
 ## sql
 
