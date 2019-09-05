@@ -394,6 +394,7 @@ __💰 means these problems are available for subscription user__
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0399/calcEquation.cpp)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0400/findNthDigit.cpp)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0401/readBinaryWatch.cpp)|Easy|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0402/removeKdigits.cpp)|Medium|
 
 ## sql
 
