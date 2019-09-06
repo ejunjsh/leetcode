@@ -397,6 +397,7 @@ __💰 means these problems are available for subscription user__
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0402/removeKdigits.cpp)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0403/canCross.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0403/canCross-dp.cpp)|Hard|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0404/sumOfLeftLeaves.cpp)|Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0405/toHex.cpp)|Easy|
 
 ## sql
 
