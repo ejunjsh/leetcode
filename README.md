@@ -399,6 +399,8 @@ __💰 means these problems are available for subscription user__
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0404/sumOfLeftLeaves.cpp)|Easy|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0405/toHex.cpp)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0406/reconstructQueue.cpp)|Medium|
+|407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0407/trapRainWater.cpp)|Hard|
+|408|[💰 Valid Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0408/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0408/validWordAbbreviation.cpp)|Easy|
 
 ## sql
 
