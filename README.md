@@ -404,6 +404,7 @@ __💰 means these problems are available for subscription user__
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0409/longestPalindrome.cpp)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0410/splitArray.cpp)|Hard|
 |411|[💰 Minimum Unique Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0411/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0411/minAbbreviation.cpp)|Hard|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0412/fizzbuzz.cpp)|Easy|
 
 ## sql
 
