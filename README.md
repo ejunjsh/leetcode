@@ -405,6 +405,8 @@ __💰 means these problems are available for subscription user__
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0410/splitArray.cpp)|Hard|
 |411|[💰 Minimum Unique Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0411/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0411/minAbbreviation.cpp)|Hard|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0412/fizzbuzz.cpp)|Easy|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0413/numberOfArithmeticSlices.cpp)|Medium|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0414/thirdMax.cpp)|Easy|
 
 ## sql
 
