@@ -412,6 +412,7 @@ __💰 means these problems are available for subscription user__
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0417/pacificAtlantic-bfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0417/pacificAtlantic-dfs.cpp)|Medium|
 |418|[💰 Sentence Screen Fitting](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0418/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0418/wordsTyping.cpp)|Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0419/countBattleships.cpp)|Medium|
+|420|[Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0420/strongPasswordChecker.cpp)|Hard|
 
 ## sql
 
