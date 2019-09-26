@@ -416,6 +416,7 @@ __💰 means these problems are available for subscription user__
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0421/findMaximumXOR.cpp)|Medium|
 |422|[💰 Valid Word Square](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0422/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0422/validWordSquare.cpp)|Easy|
 |423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0423/originalDigits.cpp)|Medium|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0424/characterReplacement.cpp)|Medium|
 
 ## sql
 
