@@ -419,7 +419,7 @@ __💰 means these problems are available for subscription user__
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0424/characterReplacement.cpp)|Medium|
 |425|[💰 Word Squares](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0425/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0425/wordSquares.cpp)|hard|
 |426|[💰 Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0426/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0426/treeToDoublyList.cpp)|Medium|
-
+|427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0427/QuadTree.cpp)|Medium|
 
 ## sql
 
