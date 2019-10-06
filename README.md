@@ -423,6 +423,7 @@ __💰 means these problems are available for subscription user__
 |428|[💰 Serialize and Deserialize N-ary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0428/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0428/codecNTree.cpp)|Hard|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0429/nTreeLevelOrder.cpp)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0430/flatten-recursion.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0430/flatten.cpp)|Medium|
+|431|[💰 Encode N-ary Tree to Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0431/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0431/codecNTree.cpp)|Hard|
 
 ## sql
 
