@@ -426,6 +426,7 @@ __💰 means these problems are available for subscription user__
 |431|[💰 Encode N-ary Tree to Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0431/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0431/codecNTree.cpp)|Hard|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0432/AllOne.cpp)|Hard|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0433/minMutation.cpp)|Medium|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0434/countSegments.cpp)|Easy|
 
 ## sql
 
