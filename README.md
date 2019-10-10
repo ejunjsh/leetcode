@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/language-C++-red.svg)
 ![](https://img.shields.io/badge/language-sql-purple.svg)
 ![](https://img.shields.io/badge/language-shell-green.svg)
+![](https://tokei.rs/b1/github/ejunjsh/leetcode?category=code)
 
 learn algorithms and learn c++ by the way
 
