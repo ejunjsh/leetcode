@@ -430,6 +430,7 @@ __💰 means these problems are available for subscription user__
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0434/countSegments.cpp)|Easy|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0435/eraseOverlapIntervals.cpp)|Medium|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0436/findRightInterval.cpp)|Medium|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0437/pathSum.cpp)|Easy|
 
 ## sql
 
