@@ -432,6 +432,7 @@ __💰 means these problems are available for subscription user__
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0436/findRightInterval.cpp)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0437/pathSum.cpp)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0438/findAnagrams.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0438/findAnagrams-slide.cpp)|Medium|
+|439|[💰 Ternary Expression Parser](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/parseTernary.cpp)|Medium|
 
 ## sql
 
