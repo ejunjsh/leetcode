@@ -435,6 +435,7 @@ __💰 means these problems are available for subscription user__
 |439|[💰 Ternary Expression Parser](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/parseTernary.cpp)|Medium|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0440/findKthNumber.cpp)|Hard|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0441/arrangeCoins-bs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0441/arrangeCoins-math.cpp)|Easy|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0442/findDuplicates.cpp)|Medium|
 
 ## sql
 
