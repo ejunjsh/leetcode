@@ -434,6 +434,7 @@ __💰 means these problems are available for subscription user__
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0438/findAnagrams.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0438/findAnagrams-slide.cpp)|Medium|
 |439|[💰 Ternary Expression Parser](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0439/parseTernary.cpp)|Medium|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0440/findKthNumber.cpp)|Hard|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0441/arrangeCoins-bs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0441/arrangeCoins-math.cpp)|Easy|
 
 ## sql
 
