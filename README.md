@@ -439,6 +439,7 @@ __💰 means these problems are available for subscription user__
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0443/compress.cpp)|Easy|
 |444|[💰 Sequence Reconstruction](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0444/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0444/sequenceReconstruction.cpp)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0445/addTwoNumbers.cpp)|Medium|
+|446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0446/numberOfArithmeticSlices.cpp)|Hard|
 
 ## sql
 
