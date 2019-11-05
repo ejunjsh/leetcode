@@ -440,6 +440,7 @@ __💰 means these problems are available for subscription user__
 |444|[💰 Sequence Reconstruction](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0444/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0444/sequenceReconstruction.cpp)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0445/addTwoNumbers.cpp)|Medium|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0446/numberOfArithmeticSlices.cpp)|Hard|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0447/numberOfBoomerangs.cpp)|Easy|
 
 ## sql
 
