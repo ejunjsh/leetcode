@@ -445,6 +445,7 @@ __💰 means these problems are available for subscription user__
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0449/Codec.cpp)|Medium|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0450/deleteNode.cpp)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0451/frequencySort.cpp)|Medium|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0452/findMinArrowShots.cpp)|Medium|
 
 ## sql
 
