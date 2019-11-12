@@ -449,6 +449,7 @@ __💰 means these problems are available for subscription user__
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0453/minMoves.cpp)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0454/fourSumCount.cpp)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0455/findContentChildren.cpp)|Easy|
+|456|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0456/find132pattern.cpp)|Medium|
 
 ## sql
 
