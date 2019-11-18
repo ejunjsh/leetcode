@@ -453,6 +453,7 @@ __💰 means these problems are available for subscription user__
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0457/circularArrayLoop.cpp)|Medium|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0458/poorPigs.cpp)|Hard|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0459/repeatedSubstringPattern.cpp)|Easy|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0460/LFUCache.cpp)|Hard|
 
 ## sql
 
