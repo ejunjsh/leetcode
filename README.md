@@ -460,6 +460,7 @@ __💰 means these problems are available for subscription user__
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0464/canIWin.cpp)|Medium|
 |465|[💰 Optimal Account Balancing](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0465/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0465/minTransfers.cpp)|Hard|
 |466|[Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0466/getMaxRepetitions.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0466/getMaxRepetitions-dp.cpp)|Hard|
+|467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0467/findSubstringInWraproundString.cpp)|Medium|
 
 ## sql
 
