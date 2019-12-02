@@ -462,6 +462,7 @@ __💰 means these problems are available for subscription user__
 |466|[Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0466/getMaxRepetitions.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0466/getMaxRepetitions-dp.cpp)|Hard|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0467/findSubstringInWraproundString.cpp)|Medium|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0468/validIPAddress.cpp)|Medium|
+|469|[💰 Convex Polygon](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/isConvex.cpp)|Medium|
 
 ## sql
 
