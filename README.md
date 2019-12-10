@@ -465,6 +465,7 @@ __💰 means these problems are available for subscription user__
 |469|[💰 Convex Polygon](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/isConvex.cpp)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0470/rand10.cpp)|Medium|
 |471|[💰 Encode String with Shortest Length](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/encode.cpp)|Hard|
+|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0472/findAllConcatenatedWordsInADict.cpp)|Hard|
 
 ## sql
 
