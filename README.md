@@ -464,6 +464,7 @@ __💰 means these problems are available for subscription user__
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0468/validIPAddress.cpp)|Medium|
 |469|[💰 Convex Polygon](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0469/isConvex.cpp)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0470/rand10.cpp)|Medium|
+|471|[💰 Encode String with Shortest Length](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/encode.cpp)|Hard|
 
 ## sql
 
