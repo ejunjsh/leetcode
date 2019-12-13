@@ -98,7 +98,7 @@ __💰 means these problems are available for subscription user__
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0084/largestRectangleArea.cpp)|Hard|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0085/maximalRectangle.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0085/maximalRectangle-dp.cpp)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0086/partitionList.cpp)|Medium|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0087/scrambleString.cpp)|Hard|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0087/scrambleString.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0087/scrambleString-dp.cpp)|Hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0088/mergeSortedArray.cpp)|Easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0089/grayCode.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0089/grayCode-backtracking.cpp)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0090/subsetsWithDup.cpp)|Medium|
