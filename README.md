@@ -467,6 +467,7 @@ __💰 means these problems are available for subscription user__
 |471|[💰 Encode String with Shortest Length](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0471/encode.cpp)|Hard|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0472/findAllConcatenatedWordsInADict.cpp)|Hard|
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0473/makesquare-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0473/makesquare-bit.cpp)|Medium|
+|474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0474/findMaxForm.cpp)|Medium|
 
 ## sql
 
@@ -499,5 +500,4 @@ __💰 means these problems are available for subscription user__
 ## To do
 
 * [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
-* [Scramble String(dp version)](https://leetcode.com/problems/scramble-string/)
 * [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
