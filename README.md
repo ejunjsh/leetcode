@@ -470,6 +470,7 @@ __💰 means these problems are available for subscription user__
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0474/findMaxForm.cpp)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0475/findRadius.cpp)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0476/findComplement.cpp)|Easy|
+|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0477/totalHammingDistance.cpp)|Medium|
 
 ## sql
 
