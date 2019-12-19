@@ -473,6 +473,7 @@ __💰 means these problems are available for subscription user__
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0477/totalHammingDistance.cpp)|Medium|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0478/randomPointInCircle.cpp)|Medium|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0479/largestPalindrome.cpp)|Hard|
+|480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0480/medianSlidingWindow.cpp)|Hard|
 
 ## sql
 
