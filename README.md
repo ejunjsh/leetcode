@@ -475,6 +475,7 @@ __💰 means these problems are available for subscription user__
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0479/largestPalindrome.cpp)|Hard|
 |480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0480/medianSlidingWindow.cpp)|Hard|
 |481|[Magical String](https://leetcode.com/problems/magical-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0481/magicalString.cpp)|Medium|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0482/licenseKeyFormatting.cpp)|Easy|
 
 ## sql
 
