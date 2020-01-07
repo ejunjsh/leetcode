@@ -479,6 +479,7 @@ __💰 means these problems are available for subscription user__
 |483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0483/smallestGoodBase.cpp)|Hard|
 |484|[💰 Find Permutation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0484/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0484/findPermutation.cpp)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0485/findMaxConsecutiveOnes.cpp)|Easy|
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-dp2.cpp)|Medium|
 
 ## sql
 
