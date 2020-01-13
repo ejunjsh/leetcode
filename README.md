@@ -482,6 +482,7 @@ __💰 means these problems are available for subscription user__
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-memo.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-dp.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0486/PredictTheWinner-dp2.cpp)|Medium|
 |487|[💰 Max Consecutive Ones II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0487/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0487/findMaxConsecutiveOnes.cpp)|Medium|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0488/findMinStep.cpp)|Hard|
+|489|[💰 Robot Room Cleaner](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0489/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0489/cleanRoom.cpp)|Hard|
 
 ## sql
 
