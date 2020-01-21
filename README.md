@@ -486,6 +486,7 @@ __💰 means these problems are available for subscription user__
 |490|[💰 The Maze](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0490/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0490/hasPath-dfs.cpp) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0490/hasPath-bfs.cpp)|Medium|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0491/findSubsequences.cpp)|Medium|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0492/constructRectangle.cpp)|Easy|
+|493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs-bst.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs-bit.cc)|Hard|
 
 ## sql
 
