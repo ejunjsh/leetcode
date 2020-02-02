@@ -488,6 +488,7 @@ __💰 means these problems are available for subscription user__
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0492/constructRectangle.cpp)|Easy|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs-bst.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs-bit.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0493/reversePairs-ms.cc)|Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-memo.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-dp.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-dp-1.cc)|Medium|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0495/findPoisonedDuration.cc)|Medium|
 
 ## sql
 
