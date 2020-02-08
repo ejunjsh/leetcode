@@ -490,6 +490,7 @@ __💰 means these problems are available for subscription user__
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-memo.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-dp.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0494/findTargetSumWays-dp-1.cc)|Medium|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0495/findPoisonedDuration.cc)|Medium|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0496/nextGreaterElement.cc)|Easy|
+|497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0497/ramdomPonitPickInRect.cc)|Medium|
 
 ## sql
 
