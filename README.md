@@ -495,6 +495,7 @@ __💰 means these problems are available for subscription user__
 |499|[💰 The Maze III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0499/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0499/findShortestWay-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0499/findShortestWay-bfs.cc)|Hard|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0500/findWords.cc)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0501/findMode.cc)|Easy|
+|502|[IPO](https://leetcode.com/problems/ipo/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0502/findMaximizedCapital.cc)|Hard|
 
 ## sql
 
