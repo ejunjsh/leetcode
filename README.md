@@ -496,6 +496,7 @@ __💰 means these problems are available for subscription user__
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0500/findWords.cc)|Easy|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0501/findMode.cc)|Easy|
 |502|[IPO](https://leetcode.com/problems/ipo/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0502/findMaximizedCapital.cc)|Hard|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0503/nextGreaterElements.cc)|Medium|
 
 ## sql
 
