@@ -498,6 +498,7 @@ __💰 means these problems are available for subscription user__
 |502|[IPO](https://leetcode.com/problems/ipo/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0502/findMaximizedCapital.cc)|Hard|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0503/nextGreaterElements.cc)|Medium|
 |504|[Base 7](https://leetcode.com/problems/base-7/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0504/convertToBase7.cc)|Easy|
+|505|[💰 The Maze II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-bfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-Dijkstra.cc)|Medium|
 
 ## sql
 
