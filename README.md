@@ -501,6 +501,7 @@ __💰 means these problems are available for subscription user__
 |505|[💰 The Maze II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-bfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0505/shortestDistance-Dijkstra.cc)|Medium|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0506/findRelativeRanks-map.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0506/findRelativeRanks-pq.cc)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0507/checkPerfectNumber.cc)|Easy|
+|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0508/findFrequentTreeSum.cc)|Medium|
 
 ## sql
 
