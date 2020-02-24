@@ -503,6 +503,7 @@ __💰 means these problems are available for subscription user__
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0507/checkPerfectNumber.cc)|Easy|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0508/findFrequentTreeSum.cc)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-0.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-1.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-2.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-3.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-4.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-5.cc)|Easy|
+|510|[💰 Inorder Successor in BST II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0510/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0510/inorderSuccessor.cc)|Medium|
 
 ## sql
 
