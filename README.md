@@ -522,6 +522,7 @@ __💰 means these problems are available for subscription user__
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0196/delete-duplicate-emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0197/rasingTemperature.sql)|Easy|
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0262/TripsAndUsers.sql)|Hard|
+|511|[💰 Game Play Analysis I](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0511/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0511/game.sql)|Easy|
 
 ## shell
 
