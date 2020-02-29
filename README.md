@@ -505,7 +505,7 @@ __💰 means these problems are available for subscription user__
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-0.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-1.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-2.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-3.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-4.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0509/fib-5.cc)|Easy|
 |510|[💰 Inorder Successor in BST II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0510/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0510/inorderSuccessor.cc)|Medium|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0513/findBottomLeftValue.cc)|Medium|
-|514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0514/findRotateSteps.cc)|Hard|
+|514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0514/findRotateSteps.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0514/findRotateSteps-dp.cc)|Hard|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0515/largestValues-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0515/largestValues-bfs.cc)|Medium|
 
 ## sql
