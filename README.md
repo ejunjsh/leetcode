@@ -507,7 +507,7 @@ __💰 means these problems are available for subscription user__
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0513/findBottomLeftValue.cc)|Medium|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0514/findRotateSteps.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0514/findRotateSteps-dp.cc)|Hard|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0515/largestValues-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0515/largestValues-bfs.cc)|Medium|
-|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0516/longestPalindromeSubseq.cc)|Medium|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0516/longestPalindromeSubseq.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0516/longestPalindromeSubseq-memo.cc)|Medium|
 
 ## sql
 
