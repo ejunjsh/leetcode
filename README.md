@@ -511,6 +511,7 @@ __💰 means these problems are available for subscription user__
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0517/findMinMoves.cc)|Hard|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0518/changeCoins-dp.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0518/changeCoins-dp-1.cc)|Medium|
 |519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0519/flip.cc)|Medium|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0520/detectCapitalUse.cc)|Easy|
 
 ## sql
 
