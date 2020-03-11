@@ -514,6 +514,8 @@ __💰 means these problems are available for subscription user__
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0520/detectCapitalUse.cc)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0521/findLUSlength.cc)|Easy|
 
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum-map.cc)|Medium|
+
 ## sql
 
 | # | Title | Solution | Difficulty |
