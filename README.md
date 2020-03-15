@@ -513,7 +513,7 @@ __💰 means these problems are available for subscription user__
 |519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0519/flip.cc)|Medium|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0520/detectCapitalUse.cc)|Easy|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0521/findLUSlength.cc)|Easy|
-
+|522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0522/findLUSlength.cc)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum-map.cc)|Medium|
 
 ## sql
