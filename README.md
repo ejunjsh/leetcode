@@ -515,6 +515,7 @@ __💰 means these problems are available for subscription user__
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0521/findLUSlength.cc)|Easy|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0522/findLUSlength.cc)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0523/checkSubarraySum-map.cc)|Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0524/findLongestWord.cc)|Medium|
 
 ## sql
 
