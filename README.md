@@ -518,6 +518,8 @@ __💰 means these problems are available for subscription user__
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0524/findLongestWord.cc)|Medium|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0525/findMaxLength.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0525/findMaxLength-sum.cc)|Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0526/countArrangement.cc)|Medium|
+|527|[💰 Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/wordsAbbreviation.cc)|Hard|
+|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0528/pickIndex.cc)|Medium|
 
 ## sql
 
