@@ -521,6 +521,8 @@ __💰 means these problems are available for subscription user__
 |527|[💰 Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/wordsAbbreviation.cc)|Hard|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0528/pickIndex.cc)|Medium|
 
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0530/getMinimumDifference.cc)|Easy|
+
 ## sql
 
 | # | Title | Solution | Difficulty |
