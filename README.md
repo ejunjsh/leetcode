@@ -520,7 +520,7 @@ __💰 means these problems are available for subscription user__
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0526/countArrangement.cc)|Medium|
 |527|[💰 Word Abbreviation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0527/wordsAbbreviation.cc)|Hard|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0528/pickIndex.cc)|Medium|
-
+|529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0529/minesweeper-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0529/minesweeper-bfs.cc)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0530/getMinimumDifference.cc)|Easy|
 |531|[💰 Lonely Pixel I](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0531/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0531/findLonelyPixel.cc)|Medium|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0532/findPairs.cc)|Easy|
