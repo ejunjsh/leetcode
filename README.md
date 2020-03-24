@@ -522,6 +522,7 @@ __💰 means these problems are available for subscription user__
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0528/pickIndex.cc)|Medium|
 
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0530/getMinimumDifference.cc)|Easy|
+|531|[💰 Lonely Pixel I](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0531/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0531/findLonelyPixel.cc)|Medium|
 
 ## sql
 
