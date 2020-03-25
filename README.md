@@ -545,6 +545,7 @@ __💰 means these problems are available for subscription user__
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0262/TripsAndUsers.sql)|Hard|
 |511|[💰 Game Play Analysis I](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0511/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0511/game.sql)|Easy|
 |512|[💰 Game Play Analysis II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0512/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0512/game.sql)|Easy|
+|534|[💰 Game Play Analysis III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0534/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0534/game.sql)|Medium|
 
 ## shell
 
