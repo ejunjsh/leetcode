@@ -526,6 +526,7 @@ __💰 means these problems are available for subscription user__
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0532/findPairs.cc)|Easy|
 |533|[💰 Lonely Pixel II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0533/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0533/findBlackPixel.cc)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0535/urlshorter.cc)|Medium|
+|536|[💰 Construct Binary Tree from String](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0536/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0536/str2tree.cc)|Medium|
 
 ## sql
 
