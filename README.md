@@ -527,6 +527,7 @@ __💰 means these problems are available for subscription user__
 |533|[💰 Lonely Pixel II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0533/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0533/findBlackPixel.cc)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0535/urlshorter.cc)|Medium|
 |536|[💰 Construct Binary Tree from String](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0536/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0536/str2tree.cc)|Medium|
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0537/complexNumberMultiply.cc)|Medium|
 
 ## sql
 
