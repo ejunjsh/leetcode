@@ -530,6 +530,7 @@ __💰 means these problems are available for subscription user__
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0537/complexNumberMultiply.cc)|Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0538/convertBST.cc)|Easy|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0539/findMinDifference.cc)|Medium|
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0540/singleNonDuplicate.cc)|Medium|
 
 ## sql
 
