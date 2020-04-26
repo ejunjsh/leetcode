@@ -532,6 +532,10 @@ __💰 means these problems are available for subscription user__
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0539/findMinDifference.cc)|Medium|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0540/singleNonDuplicate.cc)|Medium|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0541/reverseStr.cc)|Easy|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0542/updateMatrix-bfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0542/updateMatrix-dp.cc)|Medium|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0543/diameterOfBinaryTree.cc)|Easy|
+|544|[💰 Output Contest Matches](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0544/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0544/findContestMatch.cc)|Medium|
+|545|[💰 Boundary of Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0545/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0545/boundaryOfBinaryTree.cc)|Medium|
 
 ## sql
 
