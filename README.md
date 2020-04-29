@@ -536,6 +536,14 @@ __💰 means these problems are available for subscription user__
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0543/diameterOfBinaryTree.cc)|Easy|
 |544|[💰 Output Contest Matches](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0544/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0544/findContestMatch.cc)|Medium|
 |545|[💰 Boundary of Binary Tree](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0545/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0545/boundaryOfBinaryTree.cc)|Medium|
+|546|[Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0546/removeBoxes.cc)|Hard|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0547/findCircleNum-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0547/findCircleNum-uf.cc)|Medium|
+|548|[💰 Split Array with Equal Sum](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0548/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0548/splitArray.cc)|Medium|
+|549|[💰 Binary Tree Longest Consecutive Sequence II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0549/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0549/longestConsecutive.cc)|Medium|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0551/checkRecord.cc)|Easy|
+|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0552/checkRecord.cc)|Hard|
+|553|[Optimal Division](https://leetcode.com/problems/optimal-division/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0553/optimalDivision.cc)|Medium|
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0554/leastBricks.cc)|Medium|
 
 ## sql
 
@@ -557,6 +565,7 @@ __💰 means these problems are available for subscription user__
 |511|[💰 Game Play Analysis I](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0511/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0511/game.sql)|Easy|
 |512|[💰 Game Play Analysis II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0512/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0512/game.sql)|Easy|
 |534|[💰 Game Play Analysis III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0534/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0534/game.sql)|Medium|
+|550|[💰 Game Play Analysis IV](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0550/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0550/game.sql)|Medium|
 
 ## shell
 
