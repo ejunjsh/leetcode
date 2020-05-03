@@ -546,6 +546,7 @@ __💰 means these problems are available for subscription user__
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0554/leastBricks.cc)|Medium|
 |555|[💰 Split Concatenated Strings](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0555/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0555/splitLoopedString.cc)|Medium|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0556/nextGreaterElement.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0556/nextGreaterElement-1.cc)|Medium|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0557/reverseWords.cc)|Easy|
 
 ## sql
 
