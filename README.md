@@ -544,6 +544,7 @@ __💰 means these problems are available for subscription user__
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0552/checkRecord.cc)|Hard|
 |553|[Optimal Division](https://leetcode.com/problems/optimal-division/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0553/optimalDivision.cc)|Medium|
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0554/leastBricks.cc)|Medium|
+|555|[💰 Split Concatenated Strings](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0555/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0555/splitLoopedString.cc)|Medium|
 
 ## sql
 
