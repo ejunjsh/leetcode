@@ -549,6 +549,7 @@ __💰 means these problems are available for subscription user__
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0557/reverseWords.cc)|Easy|
 |558|[Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0558/intersect.cc)|Medium|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0559/maxDepth-dfs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0559/maxDepth-bfs.cc)|Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0560/subarraySum.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0560/subarraySum-1.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0560/subarraySum-2.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0560/subarraySum-3.cc)|Medium|
 
 ## sql
 
