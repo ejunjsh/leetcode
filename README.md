@@ -553,6 +553,7 @@ __💰 means these problems are available for subscription user__
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0561/arrayPairSum.cc)|Easy|
 |562|[💰 Longest Line of Consecutive One in Matrix](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0562/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0562/longestLine.cc)|Medium|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0563/findTilt.cc)|Easy|
+|564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0564/nearestPalindromic.cc)|Hard|
 
 ## sql
 
