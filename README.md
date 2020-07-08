@@ -556,6 +556,7 @@ __💰 means these problems are available for subscription user__
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0564/nearestPalindromic.cc)|Hard|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0565/arrayNesting.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0565/arrayNesting-1.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0565/arrayNesting-2.cc)|Medium|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0566/matrixReshape.cc)|Easy|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0567/checkInclusion.cc)|Medium|
 
 ## sql
 
