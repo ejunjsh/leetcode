@@ -579,6 +579,7 @@ __💰 means these problems are available for subscription user__
 |512|[💰 Game Play Analysis II](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0512/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0512/game.sql)|Easy|
 |534|[💰 Game Play Analysis III](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0534/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0534/game.sql)|Medium|
 |550|[💰 Game Play Analysis IV](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0550/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0550/game.sql)|Medium|
+|569|[💰 Median Employee Salary](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0569/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0569/median.sql)|Hard|
 
 ## shell
 
