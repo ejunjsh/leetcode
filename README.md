@@ -583,6 +583,7 @@ __💰 means these problems are available for subscription user__
 |550|[💰 Game Play Analysis IV](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0550/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0550/game.sql)|Medium|
 |569|[💰 Median Employee Salary](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0569/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0569/median.sql)|Hard|
 |570|[💰 Managers with at Least 5 Direct Reports](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0570/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0570/manager.sql)|Medium|
+|571|[💰 Find Median Given Frequency of Numbers](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0571/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0571/median.sql)|Hard|
 
 ## shell
 
