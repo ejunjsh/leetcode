@@ -559,6 +559,7 @@ __💰 means these problems are available for subscription user__
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0567/checkInclusion.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0567/checkInclusion-1.cc)|Medium|
 |568|[💰 Maximum Vacation Days](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0568/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0568/maxVacationDays-0.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0568/maxVacationDays.cc)|Hard|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0572/isSubtree.cc)|Easy|
+|573|[💰 Squirrel Simulation](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0573/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0573/minDistance.cc)|Medium|
 
 ## sql
 
