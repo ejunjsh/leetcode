@@ -588,6 +588,7 @@ __💰 means these problems are available for subscription user__
 |570|[💰 Managers with at Least 5 Direct Reports](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0570/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0570/manager.sql)|Medium|
 |571|[💰 Find Median Given Frequency of Numbers](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0571/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0571/median.sql)|Hard|
 |574|[💰 Winning Candidate](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0574/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0574/candidate.sql)|Medium|
+|577|[💰 Employee Bonus](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0577/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0577/bonus.sql)|Easy|
 
 ## shell
 
