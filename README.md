@@ -590,6 +590,7 @@ __💰 means these problems are available for subscription user__
 |574|[💰 Winning Candidate](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0574/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0574/candidate.sql)|Medium|
 |577|[💰 Employee Bonus](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0577/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0577/bonus.sql)|Easy|
 |578|[💰 Get Highest Answer Rate Question](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0578/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0578/question.sql)|Medium|
+|579|[💰 Find Cumulative Salary of an Employee](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0579/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0579/sum.sql)|Hard|
 
 ## shell
 
