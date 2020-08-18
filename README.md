@@ -563,6 +563,7 @@ __💰 means these problems are available for subscription user__
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0575/distributeCandies.cc)|Easy|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0576/findPaths.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0576/findPaths-memo.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0576/findPaths-dp.cc)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0581/findUnsortedSubarray.cc)|Easy|
+|582|[💰 Kill Process](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0582/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0582/killProcess.cc)|Medium|
 
 ## sql
 
