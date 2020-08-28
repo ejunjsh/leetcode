@@ -595,6 +595,7 @@ __💰 means these problems are available for subscription user__
 |578|[💰 Get Highest Answer Rate Question](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0578/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0578/question.sql)|Medium|
 |579|[💰 Find Cumulative Salary of an Employee](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0579/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0579/sum.sql)|Hard|
 |580|[💰 Count Student Number in Departments](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0580/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0580/num.sql)|Medium|
+|584|[💰 Find Customer Referee](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0584/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0584/customer.sql)|Easy|
 
 ## shell
 
