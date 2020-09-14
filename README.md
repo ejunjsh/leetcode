@@ -565,6 +565,7 @@ __💰 means these problems are available for subscription user__
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0581/findUnsortedSubarray.cc)|Easy|
 |582|[💰 Kill Process](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0582/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0582/killProcess.cc)|Medium|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0583/minDistance-lcs.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0583/minDistance-lcs-memo.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0583/minDistance-lcs-dp.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0583/minDistance-dp.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0583/minDistance-dp-1.cc)|Medium|
+|587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0587/outerTrees.cc)|Hard|
 
 ## sql
 
