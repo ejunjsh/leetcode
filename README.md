@@ -568,6 +568,7 @@ __💰 means these problems are available for subscription user__
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0587/outerTrees.cc)|Hard|
 |588|[💰 Design In-Memory File System](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0588/README.md)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0588/fs.cc)|Hard|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0589/preorder.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0589/preorder-iterative.cc)|Easy|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0590/postorder.cc) [C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0590/postorder-iter.cc)|Easy|
 
 ## sql
 
