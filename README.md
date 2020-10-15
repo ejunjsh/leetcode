@@ -607,6 +607,7 @@ __💰 means these problems are available for subscription user__
 |586|[💰 Customer Placing the Largest Number of Orders](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0586/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0586/customer.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0595/big_countries.sql)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0596/class.sql)|Easy|
+|597|[💰 Friend Requests I: Overall Acceptance Rate](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0597/README.md)|[sql](https://github.com/ejunjsh/leetcode/blob/master/sql/0597/rate.sql)|Easy|
 
 ## shell
 
