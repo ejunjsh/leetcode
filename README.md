@@ -573,6 +573,7 @@ __💰 means these problems are available for subscription user__
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0592/fractionAddition.cc)|Medium|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0593/validSquare.cc)|Medium|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0594/findLHS.cc)|Easy|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[C++](https://github.com/ejunjsh/leetcode/blob/master/algorithms/0598/maxCount.cc)|Easy|
 
 ## sql
 
